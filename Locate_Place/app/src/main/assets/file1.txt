@@ -1,0 +1,138 @@
+26.1885785
+91.6965726
+Kapili Boys Hostel, IIT Guwahati, Guwahati, Assam, India
+26.1884072
+91.6965187
+Hostel Kapili, IIT Guwahati, Guwahati, Assam, India
+26.1877621
+91.6966528
+Dibang Canteen, Amingaon, Guwahati, Assam, India
+26.1876562
+91.6965401
+Hostel Dibang, Amingaon, Guwahati, Assam, India
+26.1877486
+91.6997826
+Dihing Hostel, IIT Guwahati, Guwahati, Assam, India
+26.1880365
+91.6997856
+Dihing Canteen and Juice Centre, Amingaon, Guwahati, Assam, India
+26.187714
+91.69196695
+Department of Design
+26.187507
+91.691441
+Department of electronics and electrical eng
+26.187281
+91.692291
+Departmet of Computer Science an eng
+26.186964
+91.692223
+Departmet of Computer Science an eng
+26.186930
+91.691797
+NAC, Eastern Corridor
+26.186578
+91.691495
+Core2 Canteen
+26.187507
+91.691441
+Core1 Canteen
+26.186912
+91.690982
+Maths Department
+26.189996
+91.691981
+Accademic Affairs
+26.190230
+91.692046
+Canara Bank
+26.190049
+91.692214
+State Bank Atm
+26.189851
+1.692227
+State Bank IITG
+26.189230
+91.692792
+Lakshminath Bezbaroa Central Library
+26.189167
+91.692973
+Computer & Communication Centre
+26.189369
+91.692812
+Cafe Coffee Day
+26.190631
+91.691905
+Admin Block IIT
+26.191199
+91.692420
+IITG Conference Hall
+26.190531
+91.694877
+IITG Lake
+26.184674
+91.692200
+Dept of Civil Eng
+26.184648
+91.691527
+Core4 Canteen
+26.184512
+91.690988
+Dept of Physics
+26.187304
+91.690913
+Mech Department
+26.185368
+91.692109
+VKD Lab
+26.188958
+91.691237
+Lecture Halls
+26.195196
+91.687986
+IITG Shopping Complex
+26.195408
+91.695623
+IITG Guest House
+26.194542
+91.696524
+Tihor Lake
+26.192722
+91.695065
+Subansiri Girls' Hostel
+26.196640
+91.695945
+IITG New Guest House
+26.197526
+91.694346
+Surpentine Lake
+26.196596
+91.697477
+IITG Hospital
+26.194881
+91.698719
+Married Scholars
+26.195237
+91.698687
+Dhansiri Hostel
+26.194440
+91.700688
+Nursery
+26.193081
+91.701726
+TCS IIT G, IIT Guwahati, Transit Complex, IIT Guwahati
+26.190643
+91.701707
+Kameng Boy's Hostel
+26.189722
+91.701751
+Barak's Hostel
+26.188757
+91.702134
+Umium Hostel
+26.187140
+91.700160
+Brahamputra Hostel
+26.184541
+91.696448
+Kendriya Vidyalaya IITG
