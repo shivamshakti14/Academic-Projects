@@ -1,0 +1,42 @@
+
+/* used for colouring body gray...*/
+body {
+	background-color: gainsboro;
+	}
+	
+/*used for  writing text on picture above menubar*/	
+.heading2 {	
+	background-image:url(theme_picture.jpg);
+	display:block;
+	width:1329px;
+	height: 250px;
+ text-shadow: 5px 5px  10px black;
+	line-height: 50px;
+	font-family: small-caps;
+	font-size:25px;
+	color: snow;
+	}
+	
+/* used for writing form for uploading*/
+h2   {
+	color:black;
+	font-size:30px;
+	font-family:verdana;		
+	}
+	
+	
+	
+/* used for the text in last of website...*/ 	
+.soft{
+	color : gray;
+	font-size: 15px;	
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	

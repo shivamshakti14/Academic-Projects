@@ -1,0 +1,78 @@
+input.MyButton1 {
+width: 300px;
+padding: 20px;
+font-weight: bold;
+font-size: 150%;
+background:   #2f3036;
+color:  	 	#3CB371;
+cursor: pointer;
+border: 1px solid #999999;
+border-radius: 10px;
+-webkit-box-shadow: 6px 6px 5px #999999;
+-moz-box-shadow: 6px 6px 5px #999999;
+box-shaddow: 6px 6px 5px; #999999;
+}
+input.MyButton1:hover {
+color: white;
+background: #2f3036;
+border: 1px solid #A3A3A3;
+-webkit-box-shadow: 2px 2px 5px #666666;
+-moz-box-shadow: 2px 2px 5px #666666;
+box-shaddow: 2px 2px 5px; #666666;
+} 
+	
+	
+	
+	
+input.MyButton2 {
+width: 300px;
+padding: 20px;
+font-weight: bold;
+font-size: 150%;
+background: gainsboro;
+color:  	 	#3CB371;
+cursor: pointer;
+border: 1px solid #999999;
+border-radius: 10px;
+-webkit-box-shadow: 6px 6px 5px #999999;
+-moz-box-shadow: 6px 6px 5px #999999;
+box-shaddow: 6px 6px 5px; #999999;
+}
+input.MyButton2:hover {
+color: white;
+background: #2f3036;
+border: 1px solid #A3A3A3;
+-webkit-box-shadow: 2px 2px 5px #666666;
+-moz-box-shadow: 2px 2px 5px #666666;
+box-shaddow: 2px 2px 5px; #666666;
+} 
+	
+/* create a green box in body.. */
+.boxed {
+  border: 2px solid green ;
+   color :solid green;
+   position: relative;
+    bottom: 20px;
+    right: 0;
+    width: 900px;
+	height: 650px;
+} 
+
+/* for writing in green box*/
+.browse{
+color :green;
+font-size :35px;
+ text-shadow: 5px 5px  10px white;
+}
+.browse_small{
+color :black;
+font-size :20px;
+ text-shadow: 5px 5px  10px white;
+}
+.browse2{
+color :grey;
+font-size :20px;
+ text-shadow: 5px 5px  10px white;
+}
+	
+	 
